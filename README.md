@@ -14,6 +14,8 @@ Bu script otomatik olarak zamanlanmış bir görev oluşturur. Belirtilen zamand
 
 belirleyebilirsiniz.
 
+["ComputerIPList.txt"](ComputerIPList.txt) dosyasından ping atılacak adresleri alt alta ekleyebilirsiniz.
+
 ["IPTester_Install.cmd"](IPTester_Install.cmd) dosyası ile kurulum sağlayabilirsiniz.
 
 ["IPTester_Uninstall.cmd"](IPTester_Uninstall.cmd) dosyası ile kurulumu kaldırabilirsiniz.
