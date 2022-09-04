@@ -3,6 +3,8 @@
 > Ping Test Scripti ile windows task scheduler kullanarak belirli sayıda otomatik ping başlatabilirsiniz.
 Bu script otomatik olarak zamanlanmış bir görev oluşturur. Belirtilen zamanda otomatik olarak başlar ve atılan pingleri loglamaktadır.
 
+[Onur Yılmaz Blog Adresimden](https://onuryilmaz.blog/powershell-ping-test-araci/) detaylarını inceleyebilirsiniz.
+
 ["Config.xml"](Config.xml) dosyasında;
 
 - TaskName = Task Scheduler'da görüntülenecek ismini,
