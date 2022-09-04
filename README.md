@@ -19,3 +19,5 @@ belirleyebilirsiniz.
 ["IPTester_Uninstall.cmd"](IPTester_Uninstall.cmd) dosyası ile kurulumu kaldırabilirsiniz.
 
 Task Scheduler'da oluşacak tetikleyici zamanının belirlemesini ["IPTest.ps1"](IPTest.ps1) scriptinde yer alan 25. satırdan [Microsoft'un "ScheduledTasks" modülüne](https://docs.microsoft.com/en-us/powershell/module/scheduledtasks/new-scheduledtasktrigger?view=windowsserver2022-ps) göre düzenleme sağlayabilirsiniz.
+
+Bu script hiçbir garanti olmaksızın "OLDUĞU GİBİ" sağlanmaktadır. Kendi sorumluluğunuzda kullanınınız.
