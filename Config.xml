@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Configuration>
+<Option TaskName="IP Tester" />
+<Option InstallFolderPath="C:\Install\IpTester" />
+<Option LogFolderPath="C:\Install\IpTester_Logs" />
+<Option IPTestCount="4" />
+</Configuration>
